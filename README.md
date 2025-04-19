@@ -1,3 +1,3 @@
-## im the owner of neuxs hub
+## i like to code
 
 i know php, html, css, javascript, sql, python
